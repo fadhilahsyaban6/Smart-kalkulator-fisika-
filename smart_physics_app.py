@@ -1029,4 +1029,4 @@ elif menu == "📝 Quiz Fisika":
 
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.markdown("<p style='text-align:center; color:#888;'>⚛️ Smart Physics Calculator v1.0<br>Built with Streamlit</p>", unsafe_allow_html=True)
+st.sidebar.markdown("<p style='text-align:center; color:#888;'>⚛️ Smart Physics Calculator v1.0<br>Built with Kelompok 4</p>", unsafe_allow_html=True)
